@@ -108,12 +108,12 @@ export class BusinessDataService {
   }
   onGithub(){
     const link=document.createElement('a');
-    link.href="https://github.com/grraghav120";
+    link.href="https://github.com/vinayakg3402";
     link.click();
   }
   onLinkedin(){
     const link=document.createElement('a');
-    link.href="https://www.linkedin.com/in/raghavgarg2002/";
+    link.href="https://www.linkedin.com/in/vinayak-godi-74b06b254/";
     link.click();
   }
 
